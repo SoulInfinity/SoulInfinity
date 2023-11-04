@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img src ="https://in.images.search.yahoo.com/images/view;_ylt=AwrKBO.7mkZlvPIb.C69HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzkwMzZiYzZkZjhjMWY3OGJjOTM4MDE3OGU3YjI4OGY3BGdwb3MDMQRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dblack%2Bhat%2Bhackers%26type%3DE210IN885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D1&w=2546&h=2929&imgurl=www.syntacticsinc.com%2Fwp-content%2Fuploads%2F2019%2F08%2Fshutterstock_607426238-Copy2.jpg&rurl=https%3A%2F%2Fjsmithmoore.com%2Feuj0r%2Ffamous-black-hat-hackers.html&size=291.6KB&p=black+hat+hackers&oid=9036bc6df8c1f78bc9380178e7b288f7&fr2=piv-web&fr=mcafee&tt=Famous+black+hat+hackers&b=0&ni=21&no=1&ts=&tab=organic&sigr=DnJg4bl6QdKW&sigb=INjx6AWFnlWv&sigi=7mS_DnvuleJ6&sigt=89a8QSHLEBX0&.crumb=agg/7dHmfPD&fr=mcafee&fr2=piv-web&type=E210IN885G0">
 <h1 align="center">Hi 👋, I'm Ashutosh Das</h1>
 <h3 align="center">A Dummy Programmer with empty codes and errors</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
