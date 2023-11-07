@@ -1,13 +1,7 @@
-
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><h1 align="center">Hi 👋, I'm Ashutosh Das</h1>
-<h3 align="center">A Dummy Programmer with empty codes and errors</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-
-
+<h3 align="center">A Dummy Programmer with Empty Codes and Errors</h3>
+<img align="center" width="600" alt="Coding" width="400" src="https://res-5.cloudinary.com/jetpack-io/image/upload/q_auto/v1/blog/messy_container_sm.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="soulinfinity" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ashu3742" target="blank"><img src="https://img.shields.io/twitter/follow/ashu3742?logo=twitter&style=for-the-badge" alt="ashu3742" /></a> </p>
 
 - 🔭 I’m currently working on [GIET University](www.giet.edu)
