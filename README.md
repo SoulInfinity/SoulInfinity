@@ -15,8 +15,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SoulInfinity&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 😂 Dev Meme
+<img src='https://cdn.prod.website-files.com/5ef788f07804fb7d78a4127a/649adc51c15e2b0b96159e93_AI%20Memes%204.JPG' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SoulInfinity&icon=5&color=12)](https://visitcount.itsvg.in)
